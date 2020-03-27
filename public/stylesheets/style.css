@@ -6,3 +6,11 @@ body {
 a {
   color: #00B7FF;
 }
+
+h1{
+  color:blue;
+}
+p{
+  color:green;
+  font :12px;
+}
